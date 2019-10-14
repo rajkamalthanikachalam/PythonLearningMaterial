@@ -1,0 +1,30 @@
+Download Phython
+Open the cmd prompt, type python and click enter to check the version
+Set the environment variables  and make sure 2 python is available (python and scripts)
+
+
+Download Pycharm for IDE
+
+select new project
+select new environment as  virtualenv
+select the base intrepretor ur python version
+select inherit global site packages
+
+navigate to the project path using copy path from project folder in pycharm through cmd prompt
+type : pip3 install selenium
+
+must include this line(from selenium import webdriver) at each .py file
+can be execute from terminal using command python xxx.py(Navigate to the .py file path)
+
+for firefox, desired capabilitiy must be added
+
+to see/generate compiler file(.pyc) type = python -m py_compile filename.py
+to execute the class file =  python filename.py
+
+Indentation is important in python
+
+
+
+
+
+
